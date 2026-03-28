@@ -7,7 +7,7 @@ description: >+
   focuses on bringing your focus to the strengths and abilities within you to
   fulfil your purpose.
 
-coverImage: /images/uploads/474067063_122138071880394327_872931304106735244_n.png_.jpg
+coverImage: /images/uploads/563107920_122167248536394327_7304731978232027346_n.jpg
 selarLink: https://selar.com/150199
 selfanyLink: https://selfany.com/s/zilpahidaa30518
 tags:
