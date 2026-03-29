@@ -1,10 +1,12 @@
 ---
-title: "Why Every Oil & Gas Company Needs a Proactive Maintenance Culture"
-date: "2025-01-15"
-category: "SAP PM & Operations"
-excerpt: "Reactive maintenance is quietly costing the industry billions. Here's how shifting to a preventive SAP PM strategy changes the game — and how to make the case to leadership."
-readTime: "5 min read"
-coverImage: ""
+title: Why Every Oil & Gas Company Needs a Proactive Maintenance Culture
+date: 2025-01-15
+category: SAP PM & Operations
+excerpt: Reactive maintenance is quietly costing the industry billions. Here's
+  how shifting to a preventive SAP PM strategy changes the game — and how to
+  make the case to leadership.
+readTime: 5 min read
+coverImage: /images/uploads/assm.png
 ---
 
 Reactive maintenance is the silent killer of operational efficiency in oil and gas. When equipment fails without warning, the cost is never just the repair — it is the unplanned downtime, the safety incidents, the rushed decisions, and the cascading effect on production targets.
