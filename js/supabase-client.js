@@ -8,8 +8,8 @@
  * 4. Replace SUPABASE_URL and SUPABASE_ANON_KEY below
  */
 
-const SUPABASE_URL = "https://YOUR-PROJECT.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR-ANON-KEY";
+const SUPABASE_URL = "https://ojwxqnffyksaofvoqiqb.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_VJnio164lfuUAmzB-2sIAQ_p0k3F7ci";
 
 // Visitor fingerprint (anonymous, stored in localStorage)
 function getVisitorId() {
