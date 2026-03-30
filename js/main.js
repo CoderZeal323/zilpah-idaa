@@ -57,11 +57,9 @@ if (skillBars.length) {
 
 // ── CV download placeholder ─────────────────────────────────────────────────
 function dlCV(e) {
-  e.preventDefault();
-  alert(
-    "CV download coming soon — replace this with your actual CV file link in index.html."
-  );
-}
+     e.preventDefault();
+     window.open('images\\uploads\\Zilpah_Idaa_CV_Updated.pdf', '_blank');
+   }
 
 // ── Contact form (Netlify Forms) ────────────────────────────────────────────
 const cForm = document.getElementById("cForm");
