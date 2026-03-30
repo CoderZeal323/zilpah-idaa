@@ -1,9 +1,10 @@
 ---
 title: "The Discipline Gap: Why Knowing Is Never Enough"
-date: "2025-02-08"
-category: "Self-Development"
-excerpt: "We all know what we should do. The real question is — why don't we do it? A look at the gap between knowledge and consistent action."
-readTime: "4 min read"
+date: 2026-03-08
+category: Self-Development
+excerpt: We all know what we should do. The real question is — why don't we do
+  it? A look at the gap between knowledge and consistent action.
+readTime: 4 min read
 coverImage: ""
 ---
 
