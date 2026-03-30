@@ -1,10 +1,11 @@
 ---
 title: "Character Is Infrastructure: Building the Self You Can Rely On"
-date: "2025-03-20"
-category: "Coaching"
-excerpt: "Just as a plant needs reliable infrastructure to run, your life needs a reliable internal structure. Here's what that looks like in practice."
-readTime: "5 min read"
-coverImage: ""
+date: 2025-03-20
+category: Coaching
+excerpt: Just as a plant needs reliable infrastructure to run, your life needs a
+  reliable internal structure. Here's what that looks like in practice.
+readTime: 5 min read
+coverImage: /images/uploads/563107920_122167248536394327_7304731978232027346_n.jpg
 ---
 
 In plant maintenance, infrastructure is everything. You can have the best engineers, the most advanced equipment, and a world-class operating team — but if the foundational systems are weak, the facility will fail under pressure.
