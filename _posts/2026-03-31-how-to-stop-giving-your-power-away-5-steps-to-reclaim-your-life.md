@@ -16,13 +16,9 @@ What Does It Mean to Give Your Power Away?
 
 Giving your power away is handing over control of your thoughts, emotions, and decisions to something external. This often manifests as a dependency on:
 
-
-
 * People and their opinions
 * Past mistakes and regrets
 * Comparison with others' "highlight reels"
-
-
 
 When this happens, your life becomes a reaction instead of an expression. You stop asking, "What do I believe?" and start asking, "What will they think?"
 
@@ -30,20 +26,16 @@ A Biblical Reflection: The Power of Focus
 
 Consider Peter stepping out of the boat. The moment he focused on the wind, he began to sink. Nothing about the water changed. What changed was his focus. Power is sustained by where your attention stays. When your attention is controlled by fear or circumstances, your stability is the first thing to go.
 
-5 Practical Steps to Take Your Power Back
+### 5 Practical Steps to Take Your Power Back
 
+1. Take Responsibility for Your Inner State: Your emotions are valid, but they are not commands. Pause before reacting and ask: "Is this how I want to show up?"
+2. Build Self-Trust: Start small. Keep the tiny promises you make to yourself. Self-trust is the bedrock of personal power.
+3. Detach from External Validation: Not everyone will understand your path, and that is not your problem to solve. Approval is optional; alignment is essential.
+4. Choose Your Focus Carefully: Comparison is a thief that only steals from people who aren't looking at their own hands. Focus on your progress, not someone else's pace.
+5. Speak and Act Anyway: Confidence is not a prerequisite. It is a result. You do not wait to feel ready. You act, and readiness follows.
 
+ 
 
-   1. Take Responsibility for Your Inner State: Your emotions are valid, but they are not commands. Pause before reacting and ask: "Is this how I want to show up?"
-
-   2. Build Self-Trust: Start small. Keep the tiny promises you make to yourself. Self-trust is the bedrock of personal power.
-
-   3. Detach from External Validation: Not everyone will understand your path, and that is not your problem to solve. Approval is optional; alignment is essential.
-
-   4. Choose Your Focus Carefully: Comparison is a thief that only steals from people who aren't looking at their own hands. Focus on your progress, not someone else's pace.
-
-   5. Speak and Act Anyway: Confidence is not a prerequisite. It is a result. You do not wait to feel ready. You act, and readiness follows.
-
-Take away:
+Remember:
 
 Your power is not in controlling everything around you. It is in choosing how you show up within it. You do not need more permission. You need more ownership.
