@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Giving Your Power Away: 5 Steps to Reclaim Your Life"
 date: 2026-04-01
-category: Mindset
+category: Coaching
 excerpt: Your power is not in controlling everything around you. It is in
   choosing how you show up within it. You do not need more permission. You need
   more ownership.
