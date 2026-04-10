@@ -1,0 +1,16 @@
+name: Supabase Keep-Alive
+
+on:
+  schedule:
+    - cron: '0 0 * * 0,3' # Runs every Sunday and Wednesday at midnight
+  workflow_dispatch:      # This adds the manual "Run" button
+
+jobs:
+  ping_supabase:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Heartbeat Request
+        run: |
+          curl -X GET "${{ secrets.SUPABASE_URL }}/rest/v1/heartbeat?select=*" \
+          -H "apikey: ${{ secrets.SUPABASE_KEY }}" \
+          -H "Authorization: Bearer ${{ secrets.SUPABASE_KEY }}"
